@@ -1,2 +1,3 @@
 # Code_College
-yrjt
+
+Ubuntu and onedrive aren't great together
